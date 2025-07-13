@@ -1,0 +1,1 @@
+{"root":["./src/connectDB.ts","./src/createTable.ts","./src/deleteTable.ts","./src/index.ts","./src/insertIntoDB.ts"],"version":"5.8.3"}
